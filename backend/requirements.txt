@@ -9,6 +9,7 @@ dj-database-url==2.2.0
 python-decouple==3.8
 
 Pillow==10.4.0
+python-3.11.9
 
 numpy==1.26.4
 pandas==2.2.2
