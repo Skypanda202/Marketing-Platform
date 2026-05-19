@@ -19,7 +19,7 @@ export default function AppLayout() {
           <Link to="/" className="flex items-center gap-3 text-base font-black">
             <span className="grid h-10 w-10 place-items-center rounded-lg bg-ink text-white shadow-soft dark:bg-white dark:text-ink"><Compass size={19} /></span>
             <span>
-              InfluenceOS
+              Nexfluency
               <span className="block text-[10px] font-bold uppercase tracking-[0.18em] text-slate-500">Campaign studio</span>
             </span>
           </Link>
@@ -60,7 +60,7 @@ export default function AppLayout() {
         <Outlet />
       </main>
       <footer className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-3 px-4 py-8 text-sm text-slate-500">
-        <span>InfluenceOS connects credible creators with ambitious campaigns.</span>
+        <span>Nexfluency connects credible creators with ambitious campaigns.</span>
         <span className="inline-flex items-center gap-2"><Users size={16} /> Brands, creators, and operators in one place</span>
       </footer>
     </div>

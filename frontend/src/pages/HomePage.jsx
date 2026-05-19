@@ -14,7 +14,7 @@ export default function HomePage() {
             Run influencer campaigns without the spreadsheet chaos.
           </h1>
           <p className="max-w-2xl text-lg leading-8 text-slate-600 dark:text-slate-300">
-            InfluenceOS brings discovery, outreach, content approvals, messaging, payments, verification, and campaign analytics into one sharp operating system.
+            Nexfluency brings discovery, outreach, content approvals, messaging, payments, verification, and campaign analytics into one sharp operating system.
           </p>
           <div className="flex flex-wrap gap-3">
             <Link className="btn-primary" to="/register">Create workspace <ArrowRight size={17} /></Link>

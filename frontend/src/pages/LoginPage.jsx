@@ -34,7 +34,7 @@ export default function LoginPage({ mode }) {
     <section className="mx-auto grid max-w-5xl gap-6 py-10 lg:grid-cols-[0.9fr_1.1fr]">
       <div className="surface flex min-h-[460px] flex-col justify-between overflow-hidden p-6">
         <div>
-          <p className="eyebrow inline-flex items-center gap-2"><Sparkles size={15} /> InfluenceOS</p>
+          <p className="eyebrow inline-flex items-center gap-2"><Sparkles size={15} /> Nexfluency</p>
           <h1 className="mt-4 text-4xl font-black leading-tight">{isRegister ? "Build your campaign workspace." : "Step back into your campaign room."}</h1>
           <p className="mt-4 text-slate-500 dark:text-slate-400">Role-aware access for brands, creators, and platform operators.</p>
         </div>
